@@ -160,7 +160,6 @@ http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227490/index.m3u8
 http://39.134.61.219/PLTV/88888888/224/3221227113/index.m3u8
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="http://175.178.182.213/tb/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K.png" group-title="4K",湖南卫视4K
 http://39.134.61.219/PLTV/88888888/224/3221227245/index.m3u8
-
 #EXTINF:-1 tvg-id="北京卫视4K"
 tvg-name="北京卫视4k" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/北京卫视4K.png" group-title="4K",北京卫视4K
 http://8.138.7.223/tv/btime.php?id=bjws4k
